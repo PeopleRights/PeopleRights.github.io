@@ -1,1 +1,2 @@
-PeopleRights.github.io
+# PeopleRights.github.io
+https://peoplerights.github.io/
