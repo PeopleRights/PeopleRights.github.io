@@ -1,6 +1,5 @@
- <style>
-    body {
-        background-image: url("https://u.cubeupload.com/derter_menter/20220308.png"); 
+ body {
+       background-image: url("https://u.cubeupload.com/derter_menter/20220308.png"); 
     }
     .b {
   background-color: orange;
@@ -11,6 +10,3 @@
   border-radius: 7.5px;
   display: inline-block;
 }
-
-          
-</style>
