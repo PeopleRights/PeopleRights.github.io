@@ -1,4 +1,3 @@
-
     .b {
   background-color: orange;
   border: none;
@@ -8,4 +7,9 @@
   border-radius: 7.5px;
   border: 2.5px solid black;
   display: inline-block;
+}
+body {
+       background: url(background.png) fixed center;
+       background-size: cover;
+       color: red;
 }
