@@ -6,5 +6,6 @@
   font-size: 16px;
   cursor: pointer;
   border-radius: 7.5px;
+  border: 7.5px solid black;
   display: inline-block;
 }
